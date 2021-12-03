@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sliide Developer Challenge</string>
+    <string name="user_removing_confirmation">Are you sure you want to remove this user?</string>
+    <string name="label_no">No</string>
+    <string name="label_yes">Yes</string>
+    <string name="label_add_user">Add user</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_name">Name</string>
+    <string name="label_email">Email</string>
+    <string name="add_user_description">Please provide user details</string>
+    <string name="error_email_is_not_valid">Email is not valid</string>
+    <string name="error_please_enter_data">Some filed are empty</string>
+    <string name="error_user_list">There was problem with fetching user list</string>
+    <string name="error_user_remove">There was problem with user removing</string>
+    <string name="error_user_add">There was problem with user adding</string>
+
+</resources>
